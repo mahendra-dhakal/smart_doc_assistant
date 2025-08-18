@@ -1,0 +1,32 @@
+Company Information Document
+
+Company Name: TechSolutions Inc.
+Founded: 2020
+Location: San Francisco, CA
+
+Services:
+- Software Development
+- AI/ML Solutions
+- Cloud Computing
+- Mobile App Development
+- Web Development
+
+Contact Information:
+Phone: +1 (555) 123-4567
+Email: info@techsolutions.com
+Website: www.techsolutions.com
+
+Business Hours:
+Monday - Friday: 9:00 AM - 6:00 PM PST
+Saturday: 10:00 AM - 2:00 PM PST
+Sunday: Closed
+
+Pricing:
+Consultation: $150/hour
+Basic Development Package: $5,000
+Premium Development Package: $15,000
+Enterprise Solutions: Custom pricing
+
+Our team consists of experienced developers, designers, and project managers who are dedicated to delivering high-quality solutions that meet our clients' needs.
+
+We specialize in creating scalable, secure, and user-friendly applications using the latest technologies including React, Node.js, Python, AWS, and Google Cloud Platform.

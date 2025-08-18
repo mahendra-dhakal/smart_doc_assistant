@@ -1,0 +1,21 @@
+[project]
+name = "smart-doc-assistant"
+version = "0.1.0"
+description = "Smart chatbot that answers questions from documents and handles appointment booking"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.1.0",
+    "langchain-google-genai>=1.0.0",
+    "langchain-community>=0.0.1",
+    "faiss-cpu>=1.7.4",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+    "python-dateutil>=2.8.2",
+    "pypdf2>=3.0.0",
+    "email-validator>=2.0.0",
+    "phonenumbers>=8.13.0",
+    "fastapi>=0.104.0",
+    "uvicorn>=0.24.0",
+    "python-multipart>=0.0.6",
+]
