@@ -28,7 +28,7 @@ A smart chatbot that can answer questions from your documents and help schedule 
 
 3. **Start the server:**
    ```bash
-   uv run api/main.py
+   uv run -m api.main
    ```
 
 4. **Try it out:**
