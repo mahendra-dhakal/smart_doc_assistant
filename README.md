@@ -14,7 +14,7 @@ A smart chatbot that can answer questions from your documents and help schedule 
 1. **Clone and setup:**
    ```bash
    git clone <repository-url>
-   cd smart-doc-assistant
+   cd smart_doc_assistant
    uv sync
    ```
 
